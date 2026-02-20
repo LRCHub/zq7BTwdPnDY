@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "NO GOOD",
+  "base_artist": "XG",
+  "createdAt": "2026-02-20T02:36:40.886492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm No Good",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/01_I'm_No_Good_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Good Place to Cry",
+      "artist": "Randy Houser",
+      "has_synced": true,
+      "path": "select/02_No_Good_Place_to_Cry_Randy_Houser.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "There Ain't No Good Chain Gang",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/03_There_Ain't_No_Good_Chain_Gang_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Up To No Good",
+      "artist": "Warren Zeiders",
+      "has_synced": true,
+      "path": "select/04_Up_To_No_Good_Warren_Zeiders.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Up To No Good",
+      "artist": "Warren Zeiders",
+      "has_synced": false,
+      "path": "select/05_Up_To_No_Good_Warren_Zeiders.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Know I'm No Good",
+      "artist": "Amy Winehouse",
+      "has_synced": true,
+      "path": "select/06_You_Know_I'm_No_Good_Amy_Winehouse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You're No Good [feat. Santigold, Vybz Kartel, Danielle Haim & Yasmin]",
+      "artist": "Major Lazer feat. Santigold, Vybz Kartel, Danielle Haim & Yasmin",
+      "has_synced": false,
+      "path": "select/07_You're_No_Good_[feat._Santigold,_Vybz_Kartel,_Danielle_Haim_&_Yasmin]_Major_Lazer_feat._Santigold,_Vybz_Kartel,_Danielle_Haim_&_Yasmin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Good",
+      "artist": "Oneohtrix Point Never",
+      "has_synced": true,
+      "path": "select/08_No_Good_Oneohtrix_Point_Never.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ain't No Good Life",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/09_Ain't_No_Good_Life_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Good",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/10_No_Good_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Good Advice",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/11_No_Good_Advice_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Good Advice",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/12_No_Good_Advice_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Good Advice - Doublefunk Clean Vocal Mix",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/13_No_Good_Advice_-_Doublefunk_Clean_Vocal_Mix_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Good Advice (Doublefunk Clean Vocal Mix)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/14_No_Good_Advice_(Doublefunk_Clean_Vocal_Mix)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Good Advice (Parental Advisory version)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/15_No_Good_Advice_(Parental_Advisory_version)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You're No Good (Club Mix)",
+      "artist": "Chromatics",
+      "has_synced": false,
+      "path": "select/16_You're_No_Good_(Club_Mix)_Chromatics.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You’re No Good (club mix)",
+      "artist": "Chromatics",
+      "has_synced": false,
+      "path": "select/17_You’re_No_Good_(club_mix)_Chromatics.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "She's No Good",
+      "artist": "Basement Jaxx feat. Eli Paperboy Reed",
+      "has_synced": true,
+      "path": "select/18_She's_No_Good_Basement_Jaxx_feat._Eli_Paperboy_Reed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO GOOD",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_NO_GOOD_XG.txt"
+    }
+  ]
+}
